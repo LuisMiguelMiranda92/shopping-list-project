@@ -1,5 +1,5 @@
 # 🛒 Dynamic Shopping List
-**[🔗 View Live Demo](https://luismiguelmiranda92.github.io/shopping-list-project/)**
+**[🔗 View Live Demo](https://luismiguelmiranda92.github.io/shopping-list-project/shopping-list-project)**
 
 A lightweight, interactive web application built with **Vanilla JavaScript**, HTML5, and CSS3. This project demonstrates DOM manipulation, event handling, and dynamic element creation—fundamental skills for modern web development.
 
