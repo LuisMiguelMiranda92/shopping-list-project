@@ -1,4 +1,5 @@
 # 🛒 Dynamic Shopping List
+
 ## 🚀 Live Demo
 [View the Live Project here](https://luismiguelmiranda92.github.io/shopping-list-project/)
 
